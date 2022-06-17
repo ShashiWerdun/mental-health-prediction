@@ -1,7 +1,7 @@
 # Predicting Mental Health using Machine Learning
 
 ## Description
-This project implements a [research paper](./resources/Predicting_Individuals_Mental_Health_Status_in_Kenya_using_Machine_Learning_Methods.pdf) which aims to find a classifier model to predict Mental Health status of individuals. The paper is selected after reviewing various papers on the topic of mental health. The project is done as a course project for the 'BITS F464 Machine Learning' course instructed by Dr. Paresh Saxena.<br>
+This project implements a [research paper](./resources/Predicting_Individuals_Mental_Health_Status_in_Kenya_using_Machine_Learning_Methods.pdf) which aims to find a classifier model to predict Mental Health status of individuals. The paper is selected after reviewing various papers on the topic of mental health. The project is done as a course project for the 'BITS F464 Machine Learning' course instructed by Dr. Paresh Saxena at BITS-Pilani Hyderabad Campus.<br>
 More details of the project can be found in the [report](./resources/report.pdf) and [demo presentation](./resources/demo-presentation.pdf).
 
 ## Dataset and Pre-processing
@@ -21,6 +21,6 @@ Finally, the conclusion is that the classifiers- Vote Ensembling, Random Forest 
 - [Shashivardhan Vadyala](https://github.com/ShashiWerdun)
 - [Chaitanya Chakka](https://github.com/ChiatanyaChakka)
 - [K S V L Druthi](https://github.com/KSVLDruthi)
-- [Sheethal Reddy](https://github.com/Chotu2023)
+- [Vansh Madan](https://github.com/VanshMadann)
+- Sheethal Reddy
 - Pranay Kumar Dasoju
-- Vansh Madan
