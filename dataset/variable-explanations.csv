@@ -1,0 +1,76 @@
+name,detail
+surveyid,Individual Identifier
+village,Village Identifier
+survey_date,Date of Interview (days since Jan1 of first year)
+femaleres,Female respondent
+age,Age (respondent)
+married,Marital status (respondent)
+children,Number of children
+hhsize,Household size
+edu,Years of education completed (respondent)
+hh_children,Number of children <=18 or younger in Household
+hh_totalmembers,Household size
+cons_nondurable,Non-durable expenditure (USD)
+asset_livestock,Value of livestock (USD)
+asset_durable,Value of durable goods (USD)
+asset_phone,Value of cell phone (USD)
+asset_savings,Value of savings (USD)
+asset_land_owned_total,Land owned (acres)
+asset_niceroof,Has non-thatched roof (dummy)
+cons_allfood,Food total (USD)
+cons_ownfood,Food own production (USD)
+cons_alcohol,Alcohol (USD)
+cons_tobacco,Tobacco (USD)
+cons_med_total,Medical expenditure past month (USD)
+cons_med_children,"Medical expenditure, children (USD)"
+cons_ed,Education expenditure (USD)
+cons_social,Social expenditure (USD)
+cons_other,Other expenditure (USD)
+ent_wagelabor,Wage labor primary income (dummy)
+ent_ownfarm,Own farm primary income (dummy)
+ent_business,Non-ag business primary income (dummy)
+ent_nonagbusiness,Non-agricultural business owner (dummy)
+ent_employees,Number of employees working in non-ag business
+ent_nonag_revenue,"Non-ag business revenue, monthly (USD)"
+ent_nonag_flowcost,"Non-ag business flow expenses, monthly (USD)"
+ent_farmrevenue,"Farm revenue, monthly (USD)"
+ent_farmexpenses,"Farm flow expenses, monthly (USD)"
+ent_animalstockrev,"Livestock sales and meat revenue, monthly (USD)"
+ent_total_cost,"Total expenses, monthly (USD)"
+fs_adskipm_often,"Meals skipped (adults, \# last month)"
+fs_adwholed_often,"Whole days without food (adults, \# last month)"
+fs_chskipm_often,"Meals skipped (children, \# last month)"
+fs_chwholed_often,"Whole days without food (children, \# last month)"
+fs_meat,Number of times ate meat or fish (last week)
+fs_enoughtom,Enough food in the house for tomorrow? (dummy)
+fs_sleephun,"Respondent slept hungry (last week, dummy)"
+med_expenses_hh_ep,"Medical expenses per episode, entire HH (USD)"
+med_expenses_sp_ep,"Medical expenses per episode, spouses (USD)"
+med_expenses_child_ep,"Medical expenses per episode, children (USD)"
+med_portion_sickinjured,Proportion of household sick/injured (1 month)
+med_port_sick_child,Proportion of children sick/injured (1 month)
+med_afford_port,Proportion of sick/injured who could afford treatment
+med_sickdays_hhave,Average number of sick days per HH member
+med_healthconsult,Propotion of illnesses where doctor was consulted
+med_vacc_newborns,Number of newborns vaccinated
+med_child_check,Proportion of children <14 getting checkup (6 months)
+med_u5_deaths,Proportion of children <5 who died (1 year)
+ed_expenses,Education expenditure past month (USD)
+ed_expenses_perkid,Education expenditure per child past month (USD)
+ed_schoolattend,Proportion of school-aged children in school
+ed_sch_missedpc,School days missed past month (per child)
+ed_work_act_pc,Income-generating activities per school-age child >6
+labor_primary,Casual or Wage Labor Primary Source of Income
+wage_expenditures,Expenditure on wages for HH enterprise
+durable_investment,Durable Investments
+nondurable_investment,Non-durable Investments
+given_mpesa,Sent money using M-Pesa
+amount_given_mpesa,Amount sent using M-Pesa
+received_mpesa,Received money using M-Pesa
+amount_received_mpesa,Amount received using M-Pesa
+net_mpesa,Net Remittances using M-Pesa
+saved_mpesa,Saved money using M-Pesa
+amount_saved_mpesa,Amount saved using M-Pesa
+early_survey,Psychology survey in 1st wave (dummy)
+depressed,Meets epidemiological threshold for moderate depression (dummy)
+day_of_week,Day of week of survey (0=Sunday)
